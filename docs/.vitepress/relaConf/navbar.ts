@@ -6,24 +6,20 @@ export const nav: DefaultTheme.NavItem[] = [
     link: "/", // 表示docs/index.md
   },
   {
-    text: "个人成长",
-    items: [
-      {
-        text: "基尼·泰妹",
-        link: "/column/Travel/", // 表示docs/column/Travel/index.md
-      },
-      {
-        text: "所思·所想",
-        link: "/column/Growing/", // 表示docs/column/Growing/index.md
-      },
-    ],
-  },
-  {
-    text: "前端开发",
+    text: "前端笔记",
     items: [
       {
         text: "数据结构与算法",
         link: "/column/Algorithm/", // 对应docs/column/Algorithm下的idnex.md文件
+      },
+    ],
+  },
+  {
+    text: "工具箱",
+    items: [
+      {
+        text: "IT工具箱",
+        link: "/column/Tool/", // 表示docs/column/Travel/index.md
       },
     ],
   },
