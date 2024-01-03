@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Front-end Notes 2024"
-  text: "Front-end Notes Library 2024"
+  name: "Front-end Notes"
+  text: "Front-end Notes Library"
   tagline: My great project tagline
   actions:
     - theme: brand
