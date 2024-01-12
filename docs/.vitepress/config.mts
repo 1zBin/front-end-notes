@@ -4,10 +4,10 @@ import { nav, sidebar } from "./relaConf";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/front-end-notes/",
-  title: "Lz_Bin",
-  description: "一个Lz_Bin博客网站",
+  title: "老潇的成长记录",
+  description: "老潇的成长记录",
   themeConfig: {
-    siteTitle: "Lz_Bin",
+    siteTitle: "老潇的成长记录",
     logo: "/avatar.png", // 表示docs/public/avatar.png
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
