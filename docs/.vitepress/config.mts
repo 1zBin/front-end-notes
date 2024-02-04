@@ -4,10 +4,10 @@ import { nav, sidebar } from "./relaConf";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/front-end-notes/",
-  title: "iKun的成长记录",
-  description: "iKun的成长记录",
+  title: "LzBin的成长记录",
+  description: "LzBin的成长记录",
   themeConfig: {
-    siteTitle: "iKun",
+    siteTitle: "LzBin",
     logo: "/avatar.png", // 表示docs/public/avatar.png
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,

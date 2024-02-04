@@ -1,32 +1,32 @@
 import { DefaultTheme } from "vitepress";
 export const sidebar: DefaultTheme.Sidebar = {
   // /column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
-  "/column/Algorithm/": [
+  "/column/front-end/study/": [
     // 第一部分
     {
-      text: "栈和队列",
+      text: "CSS篇",
       items: [
         {
-          text: "栈-深拷贝和浅拷贝",
-          link: "/column/Algorithm/001_Stack",
+          text: "Flex 布局教程：语法篇",
+          link: "/column/front-end/study/css/flex-grammar",
         },
         {
-          text: "队列-事件循环",
-          link: "/column/Algorithm/002_Queue",
+          text: "Flex 布局教程：实例篇",
+          link: "/column/front-end/study/css/flex-example",
+        },
+        {
+          text: "CSS Grid 网格布局教程",
+          link: "/column/front-end/study/css/grid",
         },
       ],
     },
     // 第二部分
     {
-      text: "字典和树",
+      text: "JS篇",
       items: [
         {
-          text: "字典和集合-Set和Map",
-          link: "/column/Algorithm/003_Dictionary",
-        },
-        {
-          text: "树-深/广度优先遍历",
-          link: "/column/Algorithm/004_Tree",
+          text: "JS中扁平与树形数据的转换",
+          link: "/column/front-end/study/js/tree-transfer",
         },
       ],
     },

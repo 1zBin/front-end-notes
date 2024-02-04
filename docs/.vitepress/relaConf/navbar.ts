@@ -9,8 +9,16 @@ export const nav: DefaultTheme.NavItem[] = [
     text: "前端笔记",
     items: [
       {
-        text: "数据结构与算法",
-        link: "/column/Algorithm/", // 对应docs/column/Algorithm下的idnex.md文件
+        text: "学习资料",
+        link: "/column/front-end/study/",
+      },
+      {
+        text: "插件用法",
+        link: "/column/front-end/plugin/",
+      },
+      {
+        text: "其他教学",
+        link: "/column/front-end/others/",
       },
     ],
   },
@@ -18,22 +26,26 @@ export const nav: DefaultTheme.NavItem[] = [
     text: "工具箱",
     items: [
       {
-        text: "IT工具箱",
-        link: "/column/Tool/", // 表示docs/column/Travel/index.md
+        text: "前端工具箱",
+        link: "/column/tools/front-end/",
+      },
+      {
+        text: "电脑工具箱",
+        link: "/column/tools/computer/",
       },
     ],
   },
   {
     text: "关于我",
     items: [
-      { text: "Github", link: "https://github.com/Jacqueline712" },
+      { text: "Github", link: "https://github.com/" },
       {
         text: "掘金",
-        link: "https://juejin.cn/user/3131845139247960/posts",
+        link: "https://juejin.cn/",
       },
       {
         text: "飞书社区",
-        link: "https://pzfqk98jn1.feishu.cn/wiki/space/7193915595975491587?ccm_open_type=lark_wiki_spaceLink",
+        link: "https://pzfqk98jn1.feishu.cn/",
       },
     ],
   },
