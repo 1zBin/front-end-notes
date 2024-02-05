@@ -10,7 +10,7 @@
 
 
 
-### 1、方法一
+### 1.方法一
 
 下面是一个简单的例子，它演示了如何将扁平数组转换为树形对象：
 
@@ -52,7 +52,7 @@ let TreeData = convertToTree(data);
 console.log(TreeData);
 ```
 
-###  2、方法二
+###  2.方法二
 
 使用递归算法将扁平数组转换为树形对象：
 
@@ -87,7 +87,7 @@ console.log(treeData);
 
 
 
-### 3、方法三
+### 3.方法三
 
 还有一些第三方库可以帮助你转换扁平数据为树形结构，例如 lodash 中的 *.groupBy() 和* .mapValues() 方法可以帮助你将扁平数据转换为树形数据。
 
@@ -116,7 +116,7 @@ console.log(tree)
 
 
 
-### 4、方法四
+### 4.方法四
 
 ```javascript
 const flatData = [
@@ -178,7 +178,7 @@ console.log(treeData);
 
 ## 二、树形转扁平  
 
-### 1、方法一
+### 1.方法一
 
 在 javascript 中，可以使用递归算法将树形结构数据转换为扁平数组。
 
@@ -222,7 +222,7 @@ console.log(flatData);
 
 
 
-### 2、方法二
+### 2.方法二
 
 ```javascript
 const treeData = [
@@ -276,7 +276,7 @@ console.log(flatData);
 
 
 
-### 3、方法三
+### 3.方法三
 
 在 JavaScript 中，可以使用递归算法将树形结构数据转换为扁平数组。
 

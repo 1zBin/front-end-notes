@@ -6,6 +6,8 @@ export default defineConfig({
   base: "/front-end-notes/",
   title: "LzBin的成长记录",
   description: "LzBin的成长记录",
+  lastUpdated: true,
+  head: [["link", { rel: "icon", href: "/avatar.png" }]],
   themeConfig: {
     siteTitle: "LzBin",
     logo: "/avatar.png", // 表示docs/public/avatar.png
