@@ -30,5 +30,15 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
       ],
     },
+    // 第三部分
+    {
+      text: "其他",
+      items: [
+        {
+          text: "虚拟滚动",
+          link: "/column/front-end/study/others/virtual-scroll",
+        },
+      ],
+    },
   ],
 };
