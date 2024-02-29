@@ -11,8 +11,8 @@ editLink: true
 lastUpdated: true
 
 hero:
-    name: 几时带我去见识下
-    text: 真正的莞式.
+    name: 前端笔记
+    text: Stay foolish, Stay hungry.
     tagline: /斜杠青年/人间清醒/工具控/
     image:
         # 首页右边的图片
