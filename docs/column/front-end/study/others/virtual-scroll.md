@@ -22,7 +22,7 @@
 
 ![虚拟滚动.jpg](./images/virtual-scroll-01.webp)
 
-## 二、简单示例
+## 二、简单示例(Vue3)
 
 ```xml
 <template>
