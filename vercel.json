@@ -1,9 +1,0 @@
-{
-  "builds": [
-    {
-      "src": "docs/.vitepress/dist/**",
-      "use": "@vercel/static"
-    }
-  ],
-  "rewrites": [{ "source": "/(.*)", "destination": "/docs/.vitepress/dist/$1" }]
-}
