@@ -3,7 +3,7 @@ import { nav, sidebar } from "./relaConf";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/front-end-notes/",
+  base: "/",
   title: "LzBin的成长记录",
   description: "LzBin的成长记录",
   lastUpdated: true,
