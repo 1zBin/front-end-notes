@@ -191,9 +191,3 @@ yarn electron:serve
 接着我们就可以看到我们桌面应用就出来咯！
 
 ![vite-electron-01](./images/vite-electron-01.png)
-
-## 四. 最后
-
-之前做项目一直用的Vue CLI Plugin Electron Builder，这次有个项目先用electron开发一下，推一波看看，后期看情况swift重新开发一个mac的桌面应用。也刚好尝尝鲜，一直没有机会试试vite。
-
-electron这个东东确实很方便，就是打包出来的应用体积太大，真的是硬伤啊。这次目标人群首先是windows用户，所以上electron吧！

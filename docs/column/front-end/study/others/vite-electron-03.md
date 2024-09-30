@@ -231,4 +231,4 @@ yarn electron:build
 
 至此，便完成了打包。
 <br/>
-后面再来写写关于electron的优化，减少electron打包后应用的体积。
+后面有空再来写写关于electron的优化，减少electron打包后应用的体积。
