@@ -19,11 +19,20 @@ export default {
       loadOml2d({
         dockedPosition: "right",
         models: [
+          // {
+          //   path: "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/Live2D/Senko_Normals/senko.model3.json",
+          //   position: [-35, 30],
+          //   stageStyle: {
+          //     width: 280,
+          //   },
+          // },
           {
-            path: "https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/Live2D/Senko_Normals/senko.model3.json",
-            position: [-35, 30],
+            path: "https://model.oml2d.com/rem_2/model.json",
+            scale: 0.12,
+            position: [-50, -90],
             stageStyle: {
-              width: 280,
+              width: 300,
+              height: 430,
             },
           },
           {
@@ -78,15 +87,15 @@ export default {
               height: 450,
             },
           },
-          // {
-          //   path: "https://model.oml2d.com/Kar98k-normal/model.json",
-          //   position: [-10, 80],
-          //   scale: 0.08,
-          //   stageStyle: {
-          //     height: 450,
-          //     width: 320,
-          //   },
-          // },
+          {
+            path: "https://model.oml2d.com/Kar98k-normal/model.json",
+            position: [-10, 80],
+            scale: 0.08,
+            stageStyle: {
+              height: 450,
+              width: 320,
+            },
+          },
           {
             path: "https://model.oml2d.com/bilibili-22/index.json",
             position: [-10, 50],
@@ -134,15 +143,6 @@ export default {
             stageStyle: {
               width: 280,
               height: 400,
-            },
-          },
-          {
-            path: "https://model.oml2d.com/rem_2/model.json",
-            scale: 0.12,
-            position: [-50, -90],
-            stageStyle: {
-              width: 300,
-              height: 430,
             },
           },
           {
