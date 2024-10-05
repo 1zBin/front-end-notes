@@ -230,5 +230,8 @@ yarn electron:build
 ```
 
 至此，便完成了打包。
-<br/>
-后面有空再来写写关于electron的优化，减少electron打包后应用的体积。
+
+## 四. 打包报错
+
+打包时有可能出现的报错，参考：
+https://blog.csdn.net/weixin_44490021/article/details/141465519

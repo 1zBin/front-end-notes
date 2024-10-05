@@ -7,7 +7,7 @@
 
 ## 2. 参考代码
 
-https://github.com/1zBin/smart-table-pets/tree/main
+https://github.com/1zBin/vue3-live2d-electron
 
 ## 3. 目录说明
 
@@ -24,5 +24,10 @@ https://github.com/1zBin/smart-table-pets/tree/main
 setupModelInteractions函数是用来节流的，以防用户高频点击模型一直更换动作和语音，在动作结束前不能再执行下一个动作。
 
 ## 4. 其他
+
+打包时有可能出现的报错，参考：
+https://blog.csdn.net/weixin_44490021/article/details/141465519
+
+未解决bug：笔记本电脑运行程序时无法向下拖动模型
 
 后续考虑加入AI对话功能，有待开发...
