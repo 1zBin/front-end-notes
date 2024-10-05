@@ -33,3 +33,4 @@
 ### [Vite+Vue3+Electron 快速构建一个桌面应用（二）](./others/vite-electron-02)
 ### [Vite+Vue3+Electron 快速构建一个桌面应用（三）](./others/vite-electron-03)
 ### [前端 Vue3+Live2d 开发虚拟人物应用](./others/vue3+live2d)
+### [Vue3+Live2d+Electron 开发桌面宠物应用程式](./others/vue3+live2d+electron.md)

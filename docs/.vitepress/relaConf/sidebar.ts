@@ -86,6 +86,10 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: "前端 Vue3+Live2d 开发虚拟人物应用",
           link: "/column/front-end/study/others/vue3+live2d",
         },
+        {
+          text: "Vue3+Live2d+Electron 开发桌面宠物应用程式",
+          link: "/column/front-end/study/others/vue3+live2d+electron",
+        },
       ],
     },
   ],
