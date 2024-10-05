@@ -3,7 +3,53 @@
 
 今天给大家带来一个，一键隐藏硬盘盘符的方法。如果你是老司机，可能你会喜欢这个方法，因为它将保证你行车的安全。下面我们一起来看看。
 
-![01](https://pic2.zhimg.com/80/v2-9dac769f377dcd8dc38f05f154b79919_720w.webp)
+```
+@echo off
+mode con cols=80 lines=60
+color 2e
+echo.
+echo					一键隐藏硬盘盘符BAT
+echo.
+echo.
+echo		分区盘符对应的NoDrives10进制码：
+echo.
+echo		不隐藏--------0
+echo		A-------------1
+echo		B-------------2
+echo		C-------------4
+echo		D-------------8
+echo		E-------------16
+echo		F-------------32
+echo		G-------------64
+echo		H-------------128
+echo		I-------------256
+echo		J-------------512
+echo		K-------------1024
+echo		L-------------2048
+echo		M-------------4096
+echo		N-------------8192
+echo		O-------------16384
+echo		P-------------32768
+echo		Q-------------65536
+echo		R-------------131072
+echo		S-------------262144
+echo		T-------------524288
+echo		U-------------1048576
+echo		V-------------2097152
+echo		W-------------4194304
+echo		X-------------8388608
+echo		Y-------------16777216
+echo		Z-------------33554432
+echo.
+echo.
+echo		【1】参照以上内容，重新编辑该BAT，把想要隐藏的盘符对应的码填写到dword /d后，保存更改。
+echo		【2】重新运行该BAT。按任意键开始执行隐藏命令。
+pause
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoDrives" /t reg_dword /d 448 /f
+echo		【3】按任意键确定立即关机重启，使隐藏生效。
+pause
+shutdown -r
+```
 
 打开TXT，输入以上命令，保存为“一键隐藏硬盘盘符.BAT”。原理是通过修改HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer下的NoDrives值来实现隐藏硬盘盘符的效果。
 
