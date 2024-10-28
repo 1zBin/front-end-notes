@@ -232,3 +232,6 @@
 
 ### 57. 国际版软件合集
 链接：https://pan.quark.cn/s/9dca109507e1
+
+### 58. Snipaste-2.10.2-x64 轻量级截图软件
+链接：https://pan.quark.cn/s/476d75638c57
