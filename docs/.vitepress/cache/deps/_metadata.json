@@ -1,35 +1,56 @@
 {
-  "hash": "367de233",
-  "configHash": "c92b7e1b",
+  "hash": "0166428b",
+  "configHash": "22153d17",
   "lockfileHash": "e0e80159",
-  "browserHash": "ec977402",
+  "browserHash": "d99097ae",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "363a6bc6",
+      "fileHash": "9fe68833",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "7acc18ae",
+      "fileHash": "acf430f4",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "854786ea",
+      "fileHash": "af8b3aee",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "e268629b",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "4fb3afd4",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "2af31ea0",
       "needsInterop": false
     },
     "oh-my-live2d": {
       "src": "../../../../node_modules/oh-my-live2d/dist/index.js",
       "file": "oh-my-live2d.js",
-      "fileHash": "9866f3df",
+      "fileHash": "e62ee2ed",
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-G72U4FD7": {
+      "file": "chunk-G72U4FD7.js"
+    },
     "chunk-IGSYXQ5U": {
       "file": "chunk-IGSYXQ5U.js"
     },
