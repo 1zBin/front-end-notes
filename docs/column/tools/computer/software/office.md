@@ -14,6 +14,9 @@
 ### 4. AAct v4.3.1  AAct Network v1.3.0 俄罗斯大神开发Windows office激活工具
 链接：https://pan.quark.cn/s/77620a14b30c
 
+### 5. WPS 2013-2016 专业增强版破解
+链接：https://pan.quark.cn/s/946dfbffb24f
+
 
 ## 二、设计方面
 

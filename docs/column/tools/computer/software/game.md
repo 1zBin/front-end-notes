@@ -5,6 +5,12 @@
 ### 1. Gamebox（海量3A大作任意下载）
 链接：https://pan.quark.cn/s/4d01a556ce99
 
+### 2. Playnite 全能模拟器
+链接：https://pan.quark.cn/s/809013079ecf
+
+### 3. Playnite 整合包 1TB大小 畅玩PC大作Switch游戏 带封面预览
+链接：https://pan.quark.cn/s/0b03e990cb70
+
 ## 二、Switch
 
 ### 1. Yuzu模拟器最终版+手机版

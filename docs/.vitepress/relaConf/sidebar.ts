@@ -241,4 +241,15 @@ export const sidebar: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  "/column/tools/front-end/": [
+    {
+      text: "前端工作必备",
+      items: [
+        {
+          text: "工作必备",
+          link: "/column/tools/front-end/work/essential",
+        },
+      ],
+    },
+  ],
 };
