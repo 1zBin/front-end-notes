@@ -1,8 +1,27 @@
 
-
 # 电脑工具箱
 
+> 软件方面
+
 > 电脑方面
+
+
+## 软件方面
+
+### [工具库](./software/tools.md)
+
+### [办公软件](./software/office.md)
+
+### [影音](./software/player.md)
+
+### [动漫](./software/animation.md)
+
+### [TV-APK](./software/tv-apk.md)
+
+### [安卓-APK](./software/android.md)
+
+### [游戏](./software/game.md)
+
 
 ## 电脑方面
 

@@ -187,6 +187,39 @@ export const sidebar: DefaultTheme.Sidebar = {
   ],
   "/column/tools/computer/": [
     {
+      text: "软件方面",
+      items: [
+        {
+          text: "工具库",
+          link: "/column/tools/computer/software/tools",
+        },
+        {
+          text: "办公软件",
+          link: "/column/tools/computer/software/office",
+        },
+        {
+          text: "影音",
+          link: "/column/tools/computer/software/player",
+        },
+        {
+          text: "动漫",
+          link: "/column/tools/computer/software/animation",
+        },
+        {
+          text: "TV-APK",
+          link: "/column/tools/computer/software/tv-apk",
+        },
+        {
+          text: "安卓-APK",
+          link: "/column/tools/computer/software/android",
+        },
+        {
+          text: "游戏",
+          link: "/column/tools/computer/software/game",
+        },
+      ],
+    },
+    {
       text: "电脑方面",
       items: [
         {
